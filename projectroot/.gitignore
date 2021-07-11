@@ -11,3 +11,7 @@
 /components/target/
 /minutewindow/target/
 /.idea/
+/poloniexsender/poloniexsender.iml
+/poloniexsender/target/
+/core/core.iml
+/core/target/
